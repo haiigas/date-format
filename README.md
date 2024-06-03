@@ -1,8 +1,4 @@
-## Helper CodeIgniter 3
-
-> Indonesian Date Format
-
-How to use:
+### How to use
 - Save the tanggal_helper.php file in the application/helpers folder.
 - Call tanggal_helper.php in the autoload.php. Find the script and change it as below.<br>
 ```
